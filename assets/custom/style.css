@@ -1,0 +1,14 @@
+#top, #bot {
+    background-color: yellow;
+}
+
+
+
+#left, #right {
+    background-color: violet;
+}
+
+
+#mid {
+    background-color: cyan;
+}
